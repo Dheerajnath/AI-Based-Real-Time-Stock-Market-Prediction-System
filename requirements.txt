@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+requests
+yfinance
+prophet
+textblob
+bs4
+lxml
